@@ -1,3 +1,4 @@
-./lottery-react/node-modules/
-./lottery-contract/node-modules
+
+lottery-react/node-modules/
+lottery-contract/node-modules
 
