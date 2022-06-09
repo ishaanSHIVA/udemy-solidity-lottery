@@ -3,6 +3,7 @@
 
 ```
 cd lottery-contracts
+npm install
 node deploy.py
 cd ../lottery-react
 npm install
